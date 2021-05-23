@@ -1,0 +1,21 @@
+.navContainer {
+    display: flex;
+    background: #000;
+    padding: 5px 20px;
+    margin-bottom: 10px;
+}
+.navContainer .platform {
+    color: #b3aeae;
+    font-size: 11px;
+    border-right: 1px solid #b3aeae;
+    padding-right: 10px;
+}
+.navContainer h3 {
+    font-size: 12px;
+    padding: 0;
+    margin-bottom: 1px;
+}
+
+.navContainer .links { align-self: center;}
+.navContainer a { margin-left: 1.5em; color: #b3aeae;}
+.navContainer a:hover{ color: #fff; text-decoration: none;}
